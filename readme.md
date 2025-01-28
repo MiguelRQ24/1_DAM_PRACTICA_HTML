@@ -1,6 +1,6 @@
 # Una página web 
 
-Una empresa de <Introducir tema de la página web> quiere publicitarse online. Para ello contrata a un par de programadores parta que diseñen y programen la aplicación web.
+Una empresa de compraventa de cartas coleccionables quiere publicitarse online. Para ello contrata a un par de programadores parta que diseñen y programen la aplicación web.
 
 La empresa decide dar libertad a los programadores para diseñarla a su gusto, pero tienen un par de requisitos básicos que desean cumplir.
 
