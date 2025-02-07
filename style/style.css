@@ -1,0 +1,97 @@
+:root{
+    background-color: #6ca3e6;
+
+}
+
+#mostradorInicio{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 1;
+    
+}
+.apartadoMostrador{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 10px;
+}
+
+#tituloCartasMostrador{
+    color: blueviolet;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#carta1{
+    grid-column: 1;
+    grid-row: 2 / 4;
+}
+
+#carta2{
+    grid-column: 2;
+    grid-row: 2;
+
+}
+
+#carta3{
+    grid-column: 2;
+    grid-row: 3;
+
+}
+
+#tituloBundlesMostrador{
+    color: blueviolet;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#bundle1{
+    grid-column: 1;
+    grid-row: 2 / 4;
+}
+#bundle2{
+    grid-column: 2;
+    grid-row: 2;
+}
+
+#tituloCartasMostrador{
+    
+}
+
+
+#cartasMostrador{
+    
+}
+
+#tituloBundlesMostrador{
+    
+}
+
+
+
+
+
+/* */
+#nav{
+    
+    display: grid;
+    grid-template-columns: 7% 7% 10% auto auto auto auto;
+	grid-template-rows: 1;
+}
+
+.elemento{
+    color: white; 
+    /* grid-column: auto;
+    grid-row: 1; */
+    text-align: center;
+    padding: 0.5rem;
+    text-decoration: none;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.elemento.activo{
+    background-color: rgb(1, 141, 8);
+    /* grid-column: 1; */
+    text-align: center;
+}
